@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{B660117A-0B0E-B999-0E7A-78D53DC9B33B}</ProjectGuid>
+    <ProjectGuid>{44E8EF31-48A0-05CB-B4AD-9D08C02B03D6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -60,6 +60,7 @@
     <Analyzer Include="C:\Program Files\Unity 2022.3.60f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\SuperGeeks\Enemy.cs" />
     <Compile Include="Assets\Scripts\Udemy\PlayerUdemy.cs" />
     <Compile Include="Assets\Scripts\SuperGeeks\PlayerSuper.cs" />
   </ItemGroup>
